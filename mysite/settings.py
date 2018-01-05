@@ -25,7 +25,7 @@ SECRET_KEY = '8je3dm*l+zxtg%vax1acse!c$6ulx4ko)(*#ed2p7je+bs=*oa'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'mars919.mars.a1a-server.de']
+ALLOWED_HOSTS = ['127.0.0.1', 'mars919.mars.a1a-server.de', 'queendystopia.pythonanywhere.com',]
 
 
 # Application definition
